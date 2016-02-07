@@ -23,7 +23,7 @@
 			<plugin>
 				<groupId>com.heroku.sdk</groupId>
 				<artifactId>heroku-maven-plugin</artifactId>
-				<version>0.3.4-SNAPSHOT</version>
+				<version>0.5.7</version>
 				<configuration>
 					<includeTarget>false</includeTarget>
 					<includes>
